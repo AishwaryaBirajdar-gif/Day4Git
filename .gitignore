@@ -1,0 +1,13 @@
+code .gitignore
+
+# Ignore node_modules folder (common for Node.js projects)
+node_modules/
+
+# Ignore .env files (to keep sensitive data out of version control)
+.env
+
+# Ignore temporary files
+*.tmp
+
+# Ignore log files
+*.log
